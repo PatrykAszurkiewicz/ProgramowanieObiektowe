@@ -1,0 +1,2 @@
+# ProgramowanieObiektowe
+Instrukcja uruchomienia programu.
